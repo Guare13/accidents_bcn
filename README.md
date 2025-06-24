@@ -1,16 +1,28 @@
-# flutter_accidents_bcn
+# 🚦 accidents_bcn
 
-A new Flutter project.
+Una aplicació web-mòbil desenvolupada amb Flutter per a la visualització interactiva de dades obertes sobre accidents de trànsit a la ciutat de Barcelona.
 
-## Getting Started
+## 📱 Descripció
 
-This project is a starting point for a Flutter application.
+Aquest projecte forma part d’un treball final de grau i té com a objectiu facilitar la comprensió i anàlisi de la sinistralitat viària mitjançant gràfics, mapes i estadístiques actualitzades, consumides directament des del portal de dades obertes de l’Ajuntament de Barcelona a través de la seva API CKAN.
 
-A few resources to get you started if this is your first Flutter project:
+L'aplicació és responsiva i està dissenyada per funcionar tant en dispositius mòbils com en entorns d'escriptori.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔧 Funcionalitats principals
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📊 Gràfics de víctimes mortals mensuals
+- 🗺️ Mapa interactiu amb punts d'accidents per any
+- 📈 Gràfic d'evolució setmanal
+- 🎯 Percentatges de gravetat i causes d'accidents
+- 🔄 Dades actualitzades automàticament segons la font oficial
+
+## 🧱 Tecnologies utilitzades
+
+- **Flutter** – Framework principal per al desenvolupament multiplataforma
+- **CKAN API** – Per a l'obtenció de dades obertes
+- **Dart** – Llenguatge principal del projecte
+- **Provider** – Gestió d'estat
+- **http** – Connexió amb API
+
+## 🗂️ Estructura del projecte
+
