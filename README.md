@@ -24,5 +24,3 @@ L'aplicació és responsiva i està dissenyada per funcionar tant en dispositius
 - **Provider** – Gestió d'estat
 - **http** – Connexió amb API
 
-## 🗂️ Estructura del projecte
-
